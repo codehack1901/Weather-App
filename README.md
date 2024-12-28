@@ -71,14 +71,14 @@ Make sure you have the following installed:
  
 4. **Clock and Time Zone**: The local time of the city will also be shown based on the retrieved timezone.
 
-##API Integration
+## API Integration
 
 This app uses the OpenWeatherMap API to fetch weather data. To get an API key:
   1. Go to OpenWeatherMap.
   2. Sign up and get an API key.
   3. Replace the API_KEY variable in the code with your key.
 
-##Screenshot
+## Screenshot
 
 ![Weather App Screenshot](initialscreen.png,finalscreen.png)
 
