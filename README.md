@@ -80,6 +80,8 @@ This app uses the OpenWeatherMap API to fetch weather data. To get an API key:
 
 ## Screenshot
 
-![Weather App Screenshot](initialscreen.png,finalscreen.png)
+![Weather App Initial Screen](initialscreen.png)
+
+![Weather App Final Screen](finalscreen.png)
 
    
